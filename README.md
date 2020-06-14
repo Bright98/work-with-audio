@@ -2,26 +2,20 @@
 
 here are the codes I used to prepare voices for my speech project...
 
-## how can I run them?
-
+<h5>how can I run them?</h5>
 (use python3)
 
-### change_format
+<p style="font-weight: 600;">change_format</p>
+<span style="color: #0DC12D;">python</span><span> change_format.py</span style="color:#95A5A6;"><span> audio_path new_audio_path</span>
 
-> python change_format.py audio_path new_audio_path
+<p style="font-weight: 600;">change_fs</p>
+<span style="color: #0DC12D;">python</span><span> change_fs.py</span style="color:#95A5A6;"><span> audio_path new_audio_path</span>
 
-### change_fs
+<p style="font-weight: 600;">cutVoice</p>
+<span style="color: #0DC12D;">python</span><span> cutVoice.py</span style="color:#95A5A6;"><span> audio_path new_audio_path</span>
 
-> python change_fs.py audio_path new_audio_path
+<p style="font-weight: 600;">recordVoice</p>
+<span style="color: #0DC12D;">python</span><span> recordVoice.py</span style="color:#95A5A6;"><span> audio_path</span>
 
-### cutVoice
-
-> python cutVoice.py audio_path new_audio_path
-
-### recordVoice
-
-> python recordVoice.py audio_path
-
-### removeSilence
-
-> python removeSilence.py audio_path new_audio_path
+<p style="font-weight: 600;">removeSilence</p>
+<span style="color: #0DC12D;">python</span><span> removeSilence.py</span style="color:#95A5A6;"><span> audio_path new_audio_path</span>
